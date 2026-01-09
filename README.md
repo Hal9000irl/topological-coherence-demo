@@ -15,7 +15,8 @@ Higher scores indicate stronger self-consistent closure — a signal of integrit
 
 ## Local Run
 ```bash
-git clone https://github.com/yourusername/topological-coherence-demo
+git clone https://github.com/hal9000irl/topological-coherence-demo
 cd topological-coherence-demo
 pip install -r requirements.txt
 streamlit run app.py
+```
